@@ -1,5 +1,5 @@
 # Workflow-as-code-TemporalSDK-application
-Testing Temporal Technologies SDK by creating a sample application - Provisioning in AWS 
+Testing Temporal Technologies SDK(https://github.com/temporalio/sdk-go) by creating a sample application
 
 Workflow: Provisioning in AWS (provisioning-cloud/provisioning-cloud/provisioning.go)
 
