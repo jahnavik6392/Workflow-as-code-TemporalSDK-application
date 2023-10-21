@@ -13,7 +13,9 @@ Registered the below activities in the workflow
 7. PushNotification
 8. DeleteInstance
 
-Steps to run the workflow: 
+Worker picks up the tasks from the task-queue and runs the workflows and the activities
+
+Steps to run this application: 
 1. Start the Microservice by running
    >'go run microservices/galaxy-provisioning-cloud.go'
 2. Start the Worker by running
