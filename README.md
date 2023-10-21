@@ -9,7 +9,7 @@ Registered the below activities in the workflow
 3. IsInstanceAvailable
 4. DownloadJar
 5. InstallJar
-6. AddToLoadBalancer (NOTE: created this as a Microservice)
+6. AddToLoadBalancer (NOTE: created this as a Microservice to test the SDK behavior)
 7. PushNotification
 8. DeleteInstance
 
